@@ -1,14 +1,12 @@
-+++
-date = '2026-06-04T09:17:06+02:00'
-draft = false
-title = 'IDOR kwetsbaarheid in Sportyfriends API'
+\---
+date: 2026-06-04
+draft: false
+title: 'IDOR kwetsbaarheid in Sportyfriends API'
 
 tags: \["web", "ídor", "responsible disclosure"]
-+++
+---
 
 
-
-\## Summary
 
 
 
