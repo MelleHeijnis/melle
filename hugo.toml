@@ -1,0 +1,14 @@
+baseURL = "https://MelleHeijnis.github.io/"
+languageCode = "en-us"
+title = "Melle's Security Notes"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
